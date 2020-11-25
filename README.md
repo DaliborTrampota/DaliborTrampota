@@ -4,27 +4,29 @@
 ### I'm currently working on enhancing my Discord music bot KokNut
 
 - [KokNut](http://koknut.xyz)
-- [About Me](https://dalibortrampota.github.io)
+- [Vote](https://top.gg/bot/583995825269768211)
 
 ## About KokNut
 
  - KokNut is a bot mainly focused on music, but it has many other tools and features as well
-
+ 
+ - Music
+   - Youtube, Soundcloud, Spotify, Apple music and File support (more coming soon) 
+   - Free audio filters for now (once the bot gets over 2000 servers filters will degrade the performance greatly)
+   - Save your favorite playlists for fast replay
+ 
+ - Timezone converter
+   - Whenever user mentions time and has set his timezone a clock reaction will pop up. If you set your timezone you can react and message with your time will be send
+   
+ - Economy
+   - KokNut has advanced economy. You can open your **farm** or start **fishing**.
+ 
+ - Moderation
+   - You can disable and enable commands or command categories with **turn** command. You can specify where you want to disable the command, current category or chat? or the whole server?
+   - Temp ban and mute or kick will help you deal with naughty users
+   - Delete x number of last messages or from specific user using **clear** command
+   
+#### If you have any suggestions or you want specific feature added, feel free to use **suggest** command and I'll try my best to deliver the feature to you in the next update
 
 ### Github Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=dalibortrampota)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**DaliborTrampota/DaliborTrampota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
