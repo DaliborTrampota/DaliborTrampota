@@ -1,6 +1,16 @@
 ### My name is Dalibor and I like programming!
 #### I can programm in C++, C#, Javascript, Python and also websites if that's considered as programming
 
+### Languages and 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="./javascript.svg"> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./nodejs.svg" alt="vue" height="38px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./mongodb.svg" alt="vue" height="38px"/> </a>
+<a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="./html.svg"> </a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="45px" src="./css.svg"> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="h./python.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="45px" src="./react.svg"></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./flaskwhite.svg" alt="vue" height="38px"/> </a>
+
 ### I'm currently working on enhancing my Discord music bot KokNut
 
 - [KokNut](http://koknut.xyz)
