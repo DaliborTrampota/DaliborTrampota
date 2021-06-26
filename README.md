@@ -1,7 +1,7 @@
 ### My name is Dalibor and I like programming!
-#### I can programm in C++, C#, Javascript, Python and also websites if that's considered as programming
+#### I can mainy programm in C++, C#, Javascript and also websites if that's considered as programming + many more
 
-### Languages and 
+### Languages and tools I use and know
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="./logos/javascript.svg"> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./logos/nodejs.svg" alt="nodejs" height="38px"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" src="./logos/npm.svg" alt="npm" height="38px"/> </a>
@@ -16,10 +16,12 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./logos/flask.svg" alt="flask" height="38px"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" src="./logos/arduino.svg" alt="arduino" height="38px"/> </a>
 <a href="https://www.electronjs.org/" target="_blank"> <img align="left" src="./logos/electron.svg" alt="electron" height="38px"/> </a>
+<br>
+<br>
 
 ### I'm currently working on enhancing my Discord music bot KokNut
 
-- [KokNut](http://koknut.xyz)
+- [KokNut](https://koknut.xyz)
 - [Vote](https://top.gg/bot/583995825269768211)
 
 ## About KokNut
