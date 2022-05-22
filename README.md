@@ -7,7 +7,6 @@
 ### Languages and tools I use and know
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="./logos/javascript.svg"> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./logos/nodejs.svg" alt="nodejs" height="38px"/> </a>
-<a href="https://www.npmjs.com/" target="_blank"> <img align="left" src="./logos/npm.svg" alt="npm" height="38px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./logos/mongodb.svg" alt="mongodb" height="38px"/> </a>
 <a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="./logos/html.svg"> </a>
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="45px" src="./logos/css.svg"> </a>
