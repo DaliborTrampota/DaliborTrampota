@@ -1,5 +1,5 @@
 ### My name is Dalibor and I like programming!
-#### I can mainy programm in C++, C#, Javascript and also websites if that's considered as programming + many more
+#### I can mainy programm in Javascript,  and also websites if that's considered as programming + many more
 
 ### Languages and tools I use and know
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="./logos/javascript.svg"> </a>
@@ -27,12 +27,10 @@
 - Email: dalibor(dot)trampota(at)gmail(dot)com (formatted this way against bots)
 
 ## I'm currently working on enhancing my Discord music bot KokNut
-
 - [Website and Dashboard](https://koknut.xyz)
 - [Vote](https://top.gg/bot/583995825269768211)
 
 ### About KokNut
-
  - KokNut is a bot mainly focused on music, but it has many other tools and features as well
  
  - **Music**
