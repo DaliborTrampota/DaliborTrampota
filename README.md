@@ -20,18 +20,18 @@
 <br>
 <br>
 
-### Contact
+## Contact
 - [Twitter](https://twitter.com/daliborin)
 - [LinkedIn](https://www.linkedin.com/in/dalibortrampota/)
 - Discord: KokoNeot#9150
 - Email: dalibor(dot)trampota(at)gmail(dot)com (formatted this way against bots)
 
-### I'm currently working on enhancing my Discord music bot KokNut
+## I'm currently working on enhancing my Discord music bot KokNut
 
-- [KokNut](https://koknut.xyz)
+- [Website and Dashboard](https://koknut.xyz)
 - [Vote](https://top.gg/bot/583995825269768211)
 
-## About KokNut
+### About KokNut
 
  - KokNut is a bot mainly focused on music, but it has many other tools and features as well
  
