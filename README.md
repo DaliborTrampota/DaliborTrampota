@@ -1,5 +1,8 @@
-### My name is Dalibor and I like programming!
-#### I can mainy programm in Javascript,  and also websites if that's considered as programming + many more
+## My name is Dalibor and I like programming!
+- My strongest language is JavaScript. 
+- I specialize in discord bots. 
+- I prefer working on backend but [I'm fairly experienced with ReactJS as well](https://koknut.xyz).
+- I'm a quick learner and I'm open to learning new technologies and languages!
 
 ### Languages and tools I use and know
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="./logos/javascript.svg"> </a>
@@ -12,6 +15,7 @@
 <a href="https://visualstudio.microsoft.com/cs/downloads/" target="_blank"> <img align="left" src="./logos/vs.svg" alt="vs" height="38px"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="./logos/linux.svg" alt="linux" height="38px"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="./logos/python.svg"></a>
+<a href="https://www.lua.org/" target="_blank"> <img align="left" alt="Html" height ="42px" src="./logos/lua.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="45px" src="./logos/reactjs.svg"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./logos/flask.svg" alt="flask" height="38px"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" src="./logos/arduino.svg" alt="arduino" height="38px"/> </a>
