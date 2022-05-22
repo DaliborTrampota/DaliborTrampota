@@ -20,6 +20,12 @@
 <br>
 <br>
 
+### Contact
+- [Twitter](https://twitter.com/daliborin)
+- [LinkedIn](https://www.linkedin.com/in/dalibortrampota/)
+- Discord: KokoNeot#9150
+- Email: dalibor(dot)trampota(at)gmail(dot)com (formatted this way against bots)
+
 ### I'm currently working on enhancing my Discord music bot KokNut
 
 - [KokNut](https://koknut.xyz)
