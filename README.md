@@ -1,7 +1,7 @@
 ## My name is Dalibor and I like programming!
 - My strongest language is JavaScript. 
 - I specialize in discord bots. 
-- I prefer working on backend but [I'm fairly experienced with ReactJS as well](https://koknut.xyz).
+- I prefer working on backend but [I'm fairly experienced with React/SolidJS as well](https://koknut.xyz).
 - I'm a quick learner and I'm open to learning new technologies and languages!
 
 ### Languages and tools I use and know
@@ -18,7 +18,6 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="45px" src="./logos/reactjs.svg"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./logos/flask.svg" alt="flask" height="38px"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" src="./logos/arduino.svg" alt="arduino" height="38px"/> </a>
-<a href="https://www.electronjs.org/" target="_blank"> <img align="left" src="./logos/electron.svg" alt="electron" height="38px"/> </a>
 <br>
 <br>
 <br>
@@ -29,7 +28,7 @@
 - Discord: KokoNeot#9150
 - Email: dalibor(dot)trampota(at)gmail(dot)com (formatted this way against bots)
 
-## I'm currently working on enhancing my Discord music bot KokNut
+## I'm currently working on my Minecraft clone is JS
 - [Website and Dashboard](https://koknut.xyz)
 - [Vote](https://top.gg/bot/583995825269768211)
 
